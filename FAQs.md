@@ -7,7 +7,7 @@
     <li><strong>iOS 15</strong>: YouTube 20.21.6</li>
     <li><strong>iOS 16 or Higher</strong>: Any version, as long as supported by YouTube</li>
     <p></p>
-    <p>If you want to use YouTube in iOS 14 or older, please inject <a href="https://github.com/PoomSmart/YouTubeLegacy">YouTubeLegacy</a> by PoomSmart too.</p>
+    <p>If you want to use YouTube in iOS 14 or older, please install/inject <a href="https://github.com/PoomSmart/YouTubeLegacy">YouTubeLegacy</a> by PoomSmart too.</p>
 </details>
 <br>
 <details>
@@ -19,11 +19,6 @@
   <summary>Cast stopped working on sideloaded YTLitePlusEXTRA. What should I do?</summary>
     <p>Until this issue is resolved, it is recommended to use YouTube version 20.14.1 or below.</p>
     <p>(This will be fix in YTLite 5.2b5.)</p>
-</details>
-<br>
-<details>
-  <summary>YouTube's loop video option and the button don't work. What should I do?</summary>
-    <p>Uses YouLoop in <strong>Settings -> Video overlay -> Show loop video button</strong> instead.</p>
 </details>
 <br>
 <details>
